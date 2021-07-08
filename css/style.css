@@ -191,14 +191,14 @@ p {
 #about-info .info-right {
     float: right;
     width: 50%;
-    height: 50%;
     min-height: 100%;
 }
 
 #about-info .info-right img {
     display: block;
-    margin: auto;
-    width: 70%;
+    margin: 0 auto;
+    width: 16em;
+    height: 16em;
     border-radius: 50%;
 }
 
